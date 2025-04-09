@@ -50,6 +50,10 @@ Protótipo Interativo
 
 https://felipefonseca2006.wixsite.com/crie-um
 
+Miro board 
+
+https://miro.com/app/board/uXjVIRnPJ8M=/
+
 # 4. Metodologia
 
 Organização da Equipe e Divisão de Papéis
