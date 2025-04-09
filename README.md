@@ -57,17 +57,17 @@ https://miro.com/app/board/uXjVIRnPJ8M=/
 # 4. Metodologia
 
 Organização da Equipe e Divisão de Papéis
-.Gerente de Projeto: Raphael
-.Designer UX/UI: Filipe
-.Desenvolvedores: Giannetti, Felipe
-.Pesquisadores: César
+⦁	Gerente de Projeto: Raphael
+⦁	Designer UX/UI: Filipe
+⦁	Desenvolvedores: Giannetti, Felipe
+⦁	Pesquisadores: César
 
 Quadro de Controle de Tarefas - Kanban
 
 
 
 5. Referências Bibliográficas
-.SEBRAE. Empreendedorismo no Brasil. Disponível em: https://www.sebrae.com.br
-.DORNELAS, J. C. A. Empreendedorismo: transformando ideias em negócios.
-.RIES, Eric. A Startup Enxuta: como os empreendedores atuais utilizam a inovação para criar empresas extremamente bem-sucedidas.
-.Entrevistas e insights com empreendedores (dados primários coletados entre 13/03 e 18/03 de 2025 em MG).
+⦁	SEBRAE. Empreendedorismo no Brasil. Disponível em: https://www.sebrae.com.br
+⦁	DORNELAS, J. C. A. Empreendedorismo: transformando ideias em negócios.
+⦁	RIES, Eric. A Startup Enxuta: como os empreendedores atuais utilizam a inovação para criar empresas extremamente bem-sucedidas.
+⦁	Entrevistas e insights com empreendedores (dados primários coletados entre 13/03 e 18/03 de 2025 em MG).
